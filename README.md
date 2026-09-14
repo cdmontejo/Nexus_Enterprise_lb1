@@ -2,7 +2,7 @@
 
 **Sistema de Configuración, Persistencia Transaccional y Autodiagnóstico con IA Local**
 
-> Laboratorio No. 1 — Ingeniería en Informática y Sistemas
+> Laboratorio No. 1 — Manejo e implementación de archivos
 
 ---
 
@@ -159,5 +159,5 @@ python main.py
 
 ## Licencia
 
-Proyecto académico desarrollado para **Laboratorio No. 1 — Ingeniería en Informática y Sistemas**.
+Proyecto académico desarrollado para **Laboratorio No. 1 — Manejo e implementación de archivos**.
 
